@@ -1,16 +1,19 @@
-## Hi there 👋
+## Candy Aho
 
-<!--
-**cdywolf/cdywolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data scientist based in Casablanca. I build systems that turn messy documents
+and raw data into something usable.
 
-Here are some ideas to get you started:
+Recent work: benchmarked 16 parameter-efficient fine-tuning configurations for
+Donut (OCR-free document understanding) — matched full fine-tuning accuracy
+while training 0.57% of the parameters and shipping a model 4× smaller.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus:** Document AI (OCR-free extraction, layout understanding) · NLP ·
+computer vision · model explainability · time-series forecasting
+
+**Stack:** Python · PyTorch · PyTorch Lightning · HuggingFace Transformers &
+PEFT · scikit-learn · pandas · SQL · Django
+
+**Currently:** available for freelance and contract work — document extraction
+pipelines, automation, dashboards.
+
+📫 candyahogoudedji@gmail.com · [Portfolio](https://www.datascienceportfol.io/Cdywalst) · [LinkedIn](https://linkedin.com/in/nonvignon-candy-aho-98975a234) · [Kaggle](https://www.kaggle.com/cdythewolf)
