@@ -1,12 +1,12 @@
 ## Candy Aho
 
 AI & data engineer based in Casablanca. I build systems that turn messy
-documents and raw data into something usable — and I measure where they break.
+documents and raw data into something usable  and I measure where they break.
 
 **Recent work**
 
 - Benchmarked 16 parameter-efficient fine-tuning configurations for Donut
-  (OCR-free document understanding) — matched full fine-tuning accuracy while
+  (OCR-free document understanding)  matched full fine-tuning accuracy while
   training **0.57% of the parameters** and shipping a model **4× smaller**.
 - Built an adversarial evaluation suite for an open-source LLM research agent:
   60 tasks across 6 failure categories, instrumented for sub-queries, sources,
