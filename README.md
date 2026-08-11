@@ -21,8 +21,6 @@ observability · NLP · computer vision · time-series forecasting
 **Stack:** Python · PyTorch · PyTorch Lightning · HuggingFace Transformers &
 PEFT · LangChain · LangGraph · ChromaDB · Langfuse · scikit-learn · pandas ·
 SQL · Django
-
-**Currently:** available for freelance and contract work, document extraction
-pipelines, LLM agent evaluation, automation, dashboards.
+ 
 
 📫 candyahogoudedji@gmail.com · [Portfolio](https://www.datascienceportfol.io/Cdywalst) · [LinkedIn](https://linkedin.com/in/nonvignon-candy-aho-98975a234) · [Kaggle](https://www.kaggle.com/cdythewolf)
