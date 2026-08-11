@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build systems that turn messy documents and raw data into something usable —<br>
+  I build systems that turn messy documents and raw data into something usable <br>
   and I measure where they break.
 </p>
 
@@ -20,21 +20,21 @@
 
 ### 🔬 Recent work
 
-- **Parameter-efficient fine-tuning for Donut** (OCR-free document understanding) —
+- **Parameter-efficient fine-tuning for Donut** (OCR-free document understanding)
   benchmarked **16 PEFT configurations** and matched full fine-tuning accuracy while
   training **0.57% of the parameters** and shipping a model **4× smaller**.
 
-- **Adversarial evaluation suite for an open-source LLM research agent** —
+- **Adversarial evaluation suite for an open-source LLM research agent**
   60 tasks across 6 failure categories, instrumented for sub-queries, sources,
   token cost and latency. Root-caused failures to **planning and retrieval rather
   than generation**, and found a monolithic 24k-token write call driving the bill.
-  *(in progress)*
+
 
 ---
 
 ### 🎯 Focus
 
-`Document AI` — OCR-free extraction & layout understanding &nbsp;·&nbsp;
+`Document AI`  OCR-free extraction & layout understanding &nbsp;·&nbsp;
 `LLM agents & RAG` &nbsp;·&nbsp;
 `Model compression & inference-cost reduction` &nbsp;·&nbsp;
 `Evaluation & observability` &nbsp;·&nbsp;
