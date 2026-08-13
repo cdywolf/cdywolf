@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aho Candy
+# Nonvignon Candy AHO
 
 ### AI Engineer &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Generative AI &nbsp;|&nbsp; LLMs &nbsp;|&nbsp; AI Agents
 
