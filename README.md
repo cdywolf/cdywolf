@@ -19,7 +19,7 @@ I build AI systems, not just models. My focus is turning LLMs, RAG, and agents i
 
 ## About Me
 
-I am a recent Data Science and Artificial Intelligence graduate based in Morocco. I work on modern AI systems: large language models, retrieval augmented generation, and autonomous agents, with a focus on making them dependable enough to run in production. I care about the parts most demos skip, such as evaluation, cost, reliability, and clean architecture. I am looking for roles in **AI Engineering, Machine Learning, Data Science, and Generative AI**, where I can turn models into products people can actually trust.
+I am a recent Data Science and Artificial Intelligence graduate based in Morocco. I work on modern AI systems: large language models, retrieval augmented generation, and autonomous agents, with a focus on making them dependable enough to run in production. I care about the parts most demos skip, such as evaluation, cost, reliability, and clean architecture. 
 
 ---
 
